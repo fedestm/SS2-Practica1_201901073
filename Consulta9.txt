@@ -1,0 +1,17 @@
+Changed database context to 'usacdelivery'.
+mes                                                total_entregas
+-------------------------------------------------- --------------
+Abril                                                          40
+Agosto                                                         30
+Diciembre                                                      53
+Enero                                                          45
+Febrero                                                        43
+Julio                                                          41
+Junio                                                          48
+Marzo                                                          43
+Mayo                                                           34
+Noviembre                                                      43
+Octubre                                                        48
+Septiembre                                                     39
+
+(12 rows affected)

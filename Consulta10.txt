@@ -1,0 +1,9 @@
+Changed database context to 'usacdelivery'.
+anio        total_entregas
+----------- --------------
+       2020            153
+       2021            108
+       2022            113
+       2023            133
+
+(4 rows affected)

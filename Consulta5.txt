@@ -1,0 +1,10 @@
+Changed database context to 'usacdelivery'.
+producto_pendiente                                 cantidad   
+-------------------------------------------------- -----------
+ Caja de mercanc¡a                                           5
+ Env¡o areo                                                 5
+ Bulto pesado                                                4
+ Env¡o de productos fr giles                                 4
+ Env¡o a domicilio                                           3
+
+(5 rows affected)

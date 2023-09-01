@@ -1,0 +1,10 @@
+Changed database context to 'usacdelivery'.
+ciudad                                             entregas_totales
+-------------------------------------------------- ----------------
+Barberena                                                        16
+Retalhuleu                                                       16
+San Jos Pinula                                                  15
+Sanarate                                                         15
+Chiquimula                                                       14
+
+(5 rows affected)

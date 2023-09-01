@@ -1,0 +1,41 @@
+Changed database context to 'usacdelivery'.
+ciudad     
+-----------
+         51
+
+(1 rows affected)
+cliente    
+-----------
+        868
+
+(1 rows affected)
+empleado   
+-----------
+        868
+
+(1 rows affected)
+entregas   
+-----------
+        507
+
+(1 rows affected)
+estadoEntregas
+--------------
+             6
+
+(1 rows affected)
+producto   
+-----------
+        867
+
+(1 rows affected)
+temporal   
+-----------
+        868
+
+(1 rows affected)
+tiempo     
+-----------
+        362
+
+(1 rows affected)

@@ -1,0 +1,10 @@
+Changed database context to 'usacdelivery'.
+nombre                                             entregas_realizadas
+-------------------------------------------------- -------------------
+Catalina Vargas                                                      3
+Roberto Jimnez                                                      3
+Sof¡a Prez                                                          3
+Alejandro Prez                                                      2
+Carlos Flores                                                        2
+
+(5 rows affected)

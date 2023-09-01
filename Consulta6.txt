@@ -1,0 +1,10 @@
+Changed database context to 'usacdelivery'.
+producto_entregado                                 cantidad   
+-------------------------------------------------- -----------
+ Caja peque¤a                                                5
+ Env¡o de productos mdicos                                  5
+ Env¡o a zona remota                                         4
+ Env¡o de productos de limpieza                              4
+ Paquete de libros                                           4
+
+(5 rows affected)

@@ -1,0 +1,12 @@
+Changed database context to 'usacdelivery'.
+dia                                                total_entregas
+-------------------------------------------------- --------------
+Domingo                                                        66
+Jueves                                                         81
+Lunes                                                          70
+Martes                                                         80
+Mircoles                                                      76
+S bado                                                         80
+Viernes                                                        54
+
+(7 rows affected)

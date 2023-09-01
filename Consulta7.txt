@@ -1,0 +1,56 @@
+Changed database context to 'usacdelivery'.
+ciudad                                             total_entregas
+-------------------------------------------------- --------------
+Amatitl n                                                      11
+Antigua Guatemala                                              11
+Asunci¢n Mita                                                   8
+Barberena                                                      16
+Cantel                                                         12
+Chicacao                                                       10
+Chimaltenango                                                  12
+Chiquimula                                                     14
+Ciudad Vieja                                                    6
+Coatepeque                                                     10
+Cob n                                                          11
+Escuintla                                                      11
+Guatemala City                                                  7
+Huehuetenango                                                   9
+Jacaltenango                                                    8
+Jalapa                                                          5
+Jocotenango                                                     7
+Jutiapa                                                         9
+La Gomera                                                      12
+Malacat n                                                       5
+Mazatenango                                                    14
+Mixco                                                           4
+Nahual                                                         10
+Nebaj                                                          10
+Ostuncalco                                                      8
+Pal¡n                                                           9
+Patulul                                                        11
+Patz£n                                                         12
+Petapa                                                         11
+Puerto Barrios                                                  9
+Quetzaltenango                                                 10
+Retalhuleu                                                     16
+San Benito                                                      9
+San Crist¢bal Verapaz                                           8
+San Francisco El Alto                                           8
+San Jos Pinula                                                15
+San Juan Sacatepquez                                           8
+San Lucas Sacatepquez                                          9
+San Marcos                                                     10
+San Pablo Jocopilas                                            12
+San Pedro Ayampuc                                              10
+San Pedro Sacatepquez                                         13
+Sanarate                                                       15
+Santa Catarina Pinula                                           7
+Santa Cruz del Quich                                          13
+Santa Luc¡a Cotzumalguapa                                       8
+Solol                                                          10
+Sumpango                                                       10
+Totonicap n                                                     7
+Villa Canales                                                   6
+Villa Nueva                                                    11
+
+(51 rows affected)

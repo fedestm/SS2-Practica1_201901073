@@ -1,0 +1,10 @@
+Changed database context to 'usacdelivery'.
+producto                                           costo_envio 
+-------------------------------------------------- ------------
+ Env¡o de equipos deportivos                              49.97
+ Env¡o de productos mdicos                               49.93
+ Env¡o de muestras                                        49.88
+ Caja de herramientas                                     49.74
+ Caja de mercanc¡a                                        49.70
+
+(5 rows affected)
